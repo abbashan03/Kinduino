@@ -1,0 +1,12 @@
+int LedPin = 13;
+
+Einstelungen(){
+pinModus(ledpi ausgang);
+}
+
+schleife(){
+schreib(ledpi an);
+warte 5 sekunden
+schreib(ledpin, aus);
+warte 5 sekunden;
+}
